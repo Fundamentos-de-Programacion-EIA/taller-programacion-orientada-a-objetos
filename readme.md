@@ -52,9 +52,7 @@
     Diseña un sistema de gestión de recursos humanos donde hay `Personas` que pueden ser `Empleados` o `Contratistas`. Los empleados tienen un `ID de empleado`, un `salario` y una `posición`, mientras que los contratistas tienen un `ID de contratista`, una `tarifa por hora` y un `proyecto asignado`. Usa herencia para crear las subclases y encapsulamiento para proteger los atributos sensibles. Añade métodos para mostrar la información y gestionar la asignación de proyectos.
 
 18. **Sistema de Gestión de Restaurantes - Clientes y Meseros**:  
-    Modela un sistema de gestión para un restaurante donde hay `Personas` que pueden ser `Clientes` o `Meseros`. Los clientes tienen un `número de mesa` y un `pedido`, mientras que los meseros tienen un `número de empleado` y una `sección asignada`. Utiliza herencia y polimorfismo para definir métodos específicos que permitan gestionar los pedidos y mostrar la información de los clientes y mes
-
-eros.
+    Modela un sistema de gestión para un restaurante donde hay `Personas` que pueden ser `Clientes` o `Meseros`. Los clientes tienen un `número de mesa` y un `pedido`, mientras que los meseros tienen un `número de empleado` y una `sección asignada`. Utiliza herencia y polimorfismo para definir métodos específicos que permitan gestionar los pedidos y mostrar la información de los clientes y meseros.
 
 19. **Sistema de Gestión de Gimnasios - Socios y Entrenadores**:  
     Desarrolla un sistema de gestión para un gimnasio donde hay `Personas` que pueden ser `Socios` o `Entrenadores`. Los socios tienen un `número de membresía` y un `plan de entrenamiento`, mientras que los entrenadores tienen un `ID de entrenador` y una `especialidad`. Usa herencia para crear las subclases y encapsulamiento para proteger los atributos sensibles. Añade métodos para mostrar la información y gestionar los planes de entrenamiento.
